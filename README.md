@@ -1,6 +1,6 @@
 # Desktop-Assistant-JOJO
 
-#### Created and Tested on Linux with Python 2.7
+#### Created and Tested on terminal with Python 3 and using Spyder IDE
 
 An attempt to make a very simple, Personal Assistant that understands speech as well as text input and is capable of performing tasks other than conversing.
 This project is based on AIML 1.0 and uses pyaiml for using the AIML interpreter in python. AIML, is based on pattern matching and this project does not implement any sort of machine learning or language processing.
